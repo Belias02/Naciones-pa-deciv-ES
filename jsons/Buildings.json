@@ -1,0 +1,92 @@
+[
+//Nuevo Paraíso
+ {
+                "name": "Monument to the Great Unification",
+		"isWonder": true,
+		"uniqueTo": "Nuevo Paraíso",
+		"culture": 1,
+                "production": 2,
+                "faith": 1,
+		"cost": 1,
+		"uniques": [
+			"Free [Llanero] appears",
+			"Gain a free [Charity Center] [in this city]",
+			"Can only be built [in capital]"
+                        "[+1 Production] from every [Strategic resource]",
+                        "[+1 Production] from every [Luxury resource]"
+		],
+		"quote": "Placeholder",
+	  	"civilopediaText": [
+			{
+				"text": "Placeholder.",
+			},
+		]
+	},
+	{
+		"name": "Asign Survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Nuevo Paraíso",
+		"cost": 20,
+		"isNationalWonder": true,
+		"uniques": [
+			"Free [Worker] appears",
+                        "[+1 Production] per [3] population [in this city]",
+		]
+	},
+  	{
+		"name": "Biomass Plant",
+    		"uniqueTo": "Nuevo Paraíso",
+		"Cost": 160,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Provides [3] [Power]",
+			"Destroyed when the city is captured",
+		],
+		"requiredTech": "Ecology"
+	},
+	{
+		"name": "Collegium Moralis",
+    		"uniqueTo": "Nuevo Paraíso",
+		"isNationalWonder": true,
+		"replaces": "Grand Monastery",
+		"requiredTech": "Civil Service",
+		"culture": 2,
+                "faith": 2,
+                "science": 2,
+		"uniques": [
+			"Requires a [Schola Latina] in all cities",
+			"Cost increases by [30] per owned city",
+			"Destroyed when the city is captured",
+			"Only available <after adopting [Rationalism]>",
+			"Hidden when religion is disabled",
+                        "Gain a free [Pantheon] belief",
+		],
+	},
+	{
+		"name": "Schola Latina",
+                "replaces": "Monastery",
+    		"uniqueTo": "Nuevo Paraíso",
+		"faith": 1,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Faith] per [4] population [in this city]",
+			"Destroyed when the city is captured",
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Charity Center",
+		"replaces": "Shrine",
+    		"uniqueTo": "Nuevo Paraíso",
+		"faith": 1,
+                "maintenance": 0,
+		"percentStatBonus": { "gold": 5 }
+		"uniques": [
+			"Destroyed when the city is captured",
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Secrets of the Past"
+	},
+]
