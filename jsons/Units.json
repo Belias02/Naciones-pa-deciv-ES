@@ -1,0 +1,30 @@
+[
+  {
+		"name": "Llanero",
+    		"replaces": "Hussar",
+    		"uniqueTo": "Nuevo Paraíso",
+		"unitType": "Mounted",
+		"interceptRange": 1,
+		"movement": 4,
+		"strength": 34,
+		"cost": 75,
+		"requiredTech": "Redomestication",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Cavalry",
+		"uniques": [
+                        "Personnel",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"[-50]% Strength <vs cities> <when attacking>",
+			"Only available <in cities with a [Stable]>",
+			"Never appears as a Barbarian unit",
+		],
+		"promotions": ["Pursuit"]
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	},
+  
+  
+  
+  
+  ]
