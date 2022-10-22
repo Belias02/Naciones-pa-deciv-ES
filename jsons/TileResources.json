@@ -1,0 +1,10 @@
+[
+//New
+ 	{
+		"name": "Coffee", //Unique to Nuevo Paraíso, doesn't spawn on map
+		"resourceType": "Luxury",
+		"production": 1
+                "uniques": [
+			"[+5]% [Production] [in all cities]",
+	},
+]
