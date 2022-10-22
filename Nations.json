@@ -1,0 +1,38 @@
+[
+{
+		"name": "Nuevo Paraíso",
+		"leaderName": "El unificador",
+		"adjective": ["Paradiso"],
+		"startBias": ["Badlands"],
+		"preferredVictoryType": "Domination",
+		//"favoredReligion": "Humanism",
+
+		/*"startIntroPart1": "'Placeholder.'",
+		"startIntroPart2": "'placeholder.'",
+		"declaringWar": "Placeholder",
+		"attacked": "Placeholder",
+		"defeated": "Placeholder",
+		"introduction": "Welcome to the last paradise of earth",
+		"neutralHello": "We welcome you.",
+		"hateHello": "Here to surrender?",
+		"tradeRequest": "This may help our people.",*/
+
+		"outerColor": [127, 0, 40],
+		"innerColor": [245, 217, 0],
+		"style": "Paradisíaco",
+		"uniqueName": "United we stand, divided we fall",
+		"uniques": [
+			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[+1 Happiness] [in all cities] <after discovering [Radio]>",
+			"Starts with [Secrets of the Past]",
+			"[-2 Happiness] [in all cities] <before discovering [Radio]>",
+			"Cannot build [Enslaved] units",          
+  // Fake uniques to help understand the nation
+		],
+		"cities": [
+			"Unión",
+			"Honoris",
+                        "Solidaridad",
+		]
+	},
+  ]
