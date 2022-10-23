@@ -11,9 +11,9 @@
 		"uniques": [
 			"Free [Llanero] appears",
 			"Gain a free [Charity Center] [in this city]",
-			"Can only be built [in capital]"
+			"Can only be built [in capital]",
                         "[+1 Production] from every [Strategic resource]",
-                        "[+1 Production] from every [Luxury resource]"
+                        "[+1 Production] from every [Luxury resource]",
 		],
 		"quote": "Placeholder",
 	  	"civilopediaText": [
@@ -115,7 +115,7 @@
 			"Double quantity of [Oil] produced",
 			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 			"[+1 Gold] per [3] population [in all cities]",
-                        "[+1] Sight <for [All] units>"
+                        "[+1] Sight <for [All] units>",
 			"Destroyed when the city is captured",
 			"Can only be built [in capital]",
 			"Only available <in cities without a [Congress]>",
@@ -129,7 +129,8 @@
                 "replaces": "Distillery",
 		"happiness": 1,
 		"maintenance": 0,
-		"uniques": ["Provides [1] [Coffee]"],
+		"uniques": ["Provides [1] [Coffee]"
+                ],
 		"requiredNearbyImprovedResources": ["Grain"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Botany"
