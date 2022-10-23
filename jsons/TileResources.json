@@ -6,5 +6,6 @@
 		"production": 1
                 "uniques": [
 			"[+5]% Production when constructing [All] buildings [in this city]",
-	},
+	                   ]
+         },
 ]
