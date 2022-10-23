@@ -120,7 +120,7 @@
                 "requiredTech": "Civil Service"
 	},
         {
-		"name": "Hacienda Cafetera",
+		"name": "Coffee Hacienda",
 		"culture": 1,
                 "replaces": "Distillery",
 		"happiness": 1,
