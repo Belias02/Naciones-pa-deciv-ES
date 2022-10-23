@@ -123,13 +123,33 @@
                 "requiredTech": "Civil Service"
 	},
         {
+		"name": "Public Debate Chamber",
+                "replaces": "Megachurch",
+                "uniqueTo": "Nuevo Paraíso",
+		"faith": 1,
+		"science": 1,
+		"culture": 1.
+		"percentStatBonus": {"faith": 5},
+		"percentStatBonus": {"culture": 5},
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Social Engineering",
+		"uniques": [
+			"Only available <in cities with a [Schola Latina]>",
+			"Hidden when religion is disabled",
+                        "Destroyed when the city is captured",
+			"[+50]% Natural religion spread [in this city]",
+		]
+	},
+        {
 		"name": "Coffee Hacienda",
                 "uniqueTo": "Nuevo Paraíso",
 		"culture": 1,
                 "replaces": "Distillery",
 		"happiness": 1,
 		"maintenance": 0,
-		"uniques": ["Provides [1] [Coffee]"
+		"uniques": ["Provides [1] [Coffee]",
+                           "Destroyed when the city is captured",
                 ],
 		"requiredNearbyImprovedResources": ["Grain"],
 		"hurryCostModifier": 25,
