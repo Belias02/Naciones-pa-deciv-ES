@@ -119,4 +119,15 @@
 		],
                 "requiredTech": "Civil Service"
 	},
+        {
+		"name": "Hacienda Cafetera",
+		"culture": 1,
+                "replaces": "Distillery",
+		"happiness": 1,
+		"maintenance": 0,
+		"uniques": ["Provides [1] [Coffee]"],
+		"requiredNearbyImprovedResources": ["Grain"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Botany"
+	},
 ]
