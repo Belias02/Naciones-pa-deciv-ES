@@ -128,7 +128,7 @@
                 "uniqueTo": "Nuevo Paraíso",
 		"faith": 1,
 		"science": 1,
-		"culture": 1.
+		"culture": 1,
 		"percentStatBonus": {"faith": 5},
 		"percentStatBonus": {"culture": 5},
 		"maintenance": 1,
