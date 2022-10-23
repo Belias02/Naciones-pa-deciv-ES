@@ -105,8 +105,9 @@
 			"Can only be built [in capital]",
                         "Only available <in cities without a [Council]>",
 			"Destroyed when the city is captured"
-]
-                {
+                 ]
+          },
+          {
 		"name": "Defense Parliament",
 		"uniqueTo": "Nuevo Paraíso",
 		"cost": 50,
