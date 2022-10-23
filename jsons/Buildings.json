@@ -26,6 +26,8 @@
 		"name": "Asign Survivors",
 		"replaces": "Search for Survivors",
 		"uniqueTo": "Nuevo Paraíso",
+                "quote": "The way to govern well is to employ honest men, even if they are our enemies.
+                'Simón Bolívar'",
 		"cost": 20,
 		"isNationalWonder": true,
 		"uniques": [
