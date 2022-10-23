@@ -2,7 +2,7 @@
 {
 		"name": "Nuevo Paraíso",
 		"leaderName": "El unificador",
-		"adjective": ["Paradiso"],
+		"adjective": ["Paradisians"],
 		"startBias": ["Badlands"],
 		"preferredVictoryType": "Domination",
 		//"favoredReligion": "Humanism",
