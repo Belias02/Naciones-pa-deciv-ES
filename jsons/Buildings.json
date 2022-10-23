@@ -89,4 +89,34 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Secrets of the Past"
 	},
+        {
+		"name": "National Assembly",
+		"replaces": "Congress",
+		"uniqueTo": "Nuevo Paraíso",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+		   	"[+2 Culture] per [4] population [in all cities]",
+			"[+1 Science] per [3] population [in all cities]",
+			"[+1 Faith] per [6] population [in all cities]",
+                        "Provides 1 happiness per 2 additional social policies adopted",
+			"Can only be built [in capital]",
+                        "Only available <in cities without a [Council]>",
+			"Destroyed when the city is captured"
+]
+                {
+		"name": "Defense Parliament",
+		"uniqueTo": "Nuevo Paraíso",
+		"cost": 50,
+		"uniques": [
+			"Double quantity of [Oil] produced",
+			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+			"[+1 Gold] per [3] population [in all cities]",
+                        "[+1] Sight <for [All] units>"
+			"Destroyed when the city is captured",
+			"Can only be built [in capital]",
+			"Only available <in cities without a [Congress]>",
+		],
+                "requiredTech": "Civil Service"
+	},
 ]
