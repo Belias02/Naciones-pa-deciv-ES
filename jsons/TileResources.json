@@ -5,6 +5,6 @@
 		"resourceType": "Luxury",
 		"production": 1
                 "uniques": [
-			"[+5]% [Production] [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in this city]",
 	},
 ]
