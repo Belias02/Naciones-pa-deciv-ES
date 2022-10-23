@@ -124,6 +124,7 @@
 	},
         {
 		"name": "Coffee Hacienda",
+                "uniqueTo": "Nuevo Paraíso",
 		"culture": 1,
                 "replaces": "Distillery",
 		"happiness": 1,
