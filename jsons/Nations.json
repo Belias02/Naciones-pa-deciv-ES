@@ -62,5 +62,11 @@
                 "[+10]% Strength <vs [Low Tech] units>",
 		"15% Strength when fighting City-State units and cities"
                 "Starts with [Trade]",
+                ],
+		"cities": [
+			"Alpha",
+			"Beta",
+			"Charlie",
+		]
 },
   ]
