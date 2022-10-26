@@ -35,7 +35,7 @@
                         "Solidaridad",
 		]
 	},
-{
+        {
 		"name": "Arkadia",
 		"leaderName": "Pike",
 		"adjective": ["Arkadians"],
@@ -53,20 +53,20 @@
 		"hateHello": " P ",
 		"tradeRequest": " P.",*/
 
-		"outerColor": [6, 255, 6], 
-                "innerColor": [3, 0, 77],
+		"outerColor": [6, 255, 6], 
+                "innerColor": [3, 0, 77],
 		"style": "Arkadio",
 		"uniqueName": "Technological Superiority",
-                "uniques": [
+                "uniques": [
 		"[+10]% Strength <vs [Barbarian] units>",
                 "[+10]% Strength <vs [Low Tech] units>",
-		"15% Strength when fighting City-State units and cities"
+		"15% Strength when fighting City-State units and cities",
                 "Starts with [Trade]",
                 ],
 		"cities": [
 			"Alpha",
 			"Beta",
 			"Charlie",
-		]
-},
+		                   ]
+         },
   ]
