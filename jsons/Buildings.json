@@ -155,4 +155,25 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Botany"
 	},
+//Arkadia
+{
+                "name": "Wronku Meeting Chamber",
+		"isWonder": true,
+		"uniqueTo": "Arkadia",
+		"culture": 1,
+                "science": 1,
+		"cost": 1,
+		"uniques": [
+			"Free [Gunman] appears",
+			"Gain a free [Listening Post] [in this city]",
+			"Can only be built [in capital]",
+                        "[-10]% Culture cost of adopting new Policies",
+                        "Provides [1] [Weapons]",
+                        "When declaring friendship, both parties gain a [10]% boost to great person generation",
+		],
+		"quote": "Placeholder",
+	  	"civilopediaText": [
+			{
+				"text": "Placeholder.",
+			},
 ]
