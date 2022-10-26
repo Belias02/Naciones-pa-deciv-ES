@@ -156,7 +156,7 @@
 		"requiredTech": "Botany"
 	},
 //Arkadia
-{
+        {
                 "name": "Wronku Meeting Chamber",
 		"isWonder": true,
 		"uniqueTo": "Arkadia",
@@ -176,4 +176,6 @@
 			{
 				"text": "Placeholder.",
 			},
+                    ]
+  },
 ]
