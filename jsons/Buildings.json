@@ -223,4 +223,21 @@
 			"Destroyed when the city is captured"
                  ]
           },
+          {
+		"name": "Alliance Council",
+		"replaces": "Council",
+		"uniqueTo": "Arkadia",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"Resting point for Influence with City-States is increased by [15]",
+			"[-25]% City-State Influence degradation",
+			"When declaring friendship, both parties gain a [5]% boost to great person generation",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built [in capital]",
+			"Only available <in cities without a [Arkadian Triumvirate]>",
+			"Destroyed when the city is captured",
+		]
+	},
 ]
