@@ -207,4 +207,20 @@
 			"Free [Great Scientist] appears",
 		],
 	},
+        {
+		"name": "Arkadian Triumvirate",
+		"replaces": "Congress",
+		"uniqueTo": "Arkadia",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+		   	"[+1 science] per [4] population [in all cities]",
+			"[+10]% City Strength from defensive buildings",
+			"[+1 Happiness] [in all cities connected to capital]",
+			"Can only be built [in capital]",
+                        "Only available <in cities without a [Alliance Council]>",
+                        "Only available <if [Search for Survivors] is constructed>",
+			"Destroyed when the city is captured"
+                 ]
+          },
 ]
