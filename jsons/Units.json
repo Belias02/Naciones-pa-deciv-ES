@@ -23,8 +23,26 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
-  
-  
-  
-  
+        {
+		"name": "Sonic Cannon",
+		"replaces": "Cannon",
+                "uniqueTo": "Arkadia",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 25,
+		"cost": 130,
+		"requiredTech": "Steel",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Munitions",
+		"uniques": [
+			"[+25]% Strength <vs [Low Tech] units>",
+			"[+10]% Strength <vs [Mounted] units>",
+			"[-33]% Strength <vs [Armor] units>",
+			"[-1] Sight",
+			"Consumes [1] [Weapons]",
+			"Never appears as a Barbarian unit",
+		],
+		"attackSound": "cannon",
+	},
   ]

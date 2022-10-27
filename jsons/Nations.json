@@ -2,7 +2,7 @@
 {
 		"name": "Nuevo Paraíso",
 		"leaderName": "El unificador",
-		"adjective": ["Paradiso"],
+		"adjective": ["Paradisians"],
 		"startBias": ["Badlands"],
 		"preferredVictoryType": "Domination",
 		//"favoredReligion": "Humanism",
@@ -35,4 +35,38 @@
                         "Solidaridad",
 		]
 	},
+        {
+		"name": "Arkadia",
+		"leaderName": "Pike",
+		"adjective": ["Arkadians"],
+		"startBias": ["Wastedland"],
+		"preferredVictoryType": "Transmission",
+		//"favoredReligion": "Humanism",
+
+		/*"startIntroPart1": "'Placeholder.'",
+		"startIntroPart2": "'placeholder.'",
+		"declaringWar": " P ",
+		"attacked": " P ",
+		"defeated": " P ",
+		"introduction": " p ",
+		"neutralHello": " P.",
+		"hateHello": " P ",
+		"tradeRequest": " P.",*/
+
+		"outerColor": [6, 255, 6], 
+                "innerColor": [3, 0, 77],
+		"style": "Arkadio",
+		"uniqueName": "Technological Superiority",
+                "uniques": [
+		"[+10]% Strength <vs [Barbarian] units>",
+                "[+10]% Strength <vs [Low Tech] units>",
+		"+15% Strength when fighting City-State units and cities",
+                "Starts with [Trade]",
+                ],
+		"cities": [
+			"Alpha",
+			"Beta",
+			"Charlie",
+		                   ]
+         },
   ]
