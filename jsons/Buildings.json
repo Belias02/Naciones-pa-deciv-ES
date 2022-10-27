@@ -182,7 +182,7 @@
          {
 		"name": "Mount Weather",
 		"replaces": "Bomb Shelter",
-		"UniqueTo": "Arkadia",
+		"uniqueTo": "Arkadia",
 		"isNationalWonder": true,
 		"food": 2,
 		"production": 3,
