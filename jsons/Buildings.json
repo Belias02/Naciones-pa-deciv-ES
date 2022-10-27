@@ -214,7 +214,7 @@
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"uniques": [
-		   	"[+1 science] per [4] population [in all cities]",
+		   	"[+1 Science] per [4] population [in all cities]",
 			"[+10]% City Strength from defensive buildings",
 			"[+1 Happiness] [in all cities connected to capital]",
 			"Can only be built [in capital]",
