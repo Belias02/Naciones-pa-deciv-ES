@@ -69,4 +69,41 @@
 			"Charlie",
 		                   ]
          },
+         {
+          "name": "Antarctica",
+	  "leaderName": "Günther the Great",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255,255,255],
+
+	  "startBias": ["Tundra", "Coast"],
+	  "preferredVictoryType": "Domination",
+	  "favoredReligion": "Naturism",
+
+  	"startIntroPart1": " Placeholder",
+  	//"startIntroPart2": "close",
+	"introduction": "Hello, nice to meet you (penguin language translated to English)",
+        "declaringWar": "I'm sorry, but that's how it has to be.",
+  	"attacked": "So you underestimate penguins huh?  Well suffer the consequences!",
+  	"afterPeace": "Do you realize now who is superior?",
+  	"defeated": "Maybe I underestimated you, what will you do now that you have enslaved our race?",
+  	"neutralHello": "Yes?",
+  	"hateHello": "What does the monkey want?",
+  	"tradeRequest": "What about this?",
+		
+  	"uniqueName": "Superior Spheniscidae",
+  	"uniques": [
+		    "All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion",
+		     "All newly-trained [Land] units [in all cities] receive the [Spheniscidae] promotion",
+		    "[+15]% Strength <for [All] units> <when fighting in [Tundra] tiles>", 
+		    "[+15]% Strength <for [All] units> <when fighting in [Permafrost] tiles>", 
+		    "[-15]% Strength <for [All] units> <when fighting in [Desert] tiles>",
+		    "[1] Movement point cost to disembark",
+		    "[1] Movement point cost to embark"
+		    "Starts with [Sailing]"
+		    "Starts with [Navigation]"
+		    "[-1 Science] [in all cities] <before discovering [Writing]>"
+		               ],
+	  "cities": [
+	  "Pingüineton","Pescado","Hielo Pescadil","Pescado Congelado"],
+  },
   ]
