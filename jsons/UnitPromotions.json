@@ -1,1 +1,7 @@
-
+[
+    //Antártida
+        {
+		"name": "Spheniscidae",
+		"uniques": ["May attack when embarked"],
+	},
+]
