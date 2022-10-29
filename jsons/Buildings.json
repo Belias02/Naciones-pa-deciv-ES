@@ -240,4 +240,36 @@
 			"Destroyed when the city is captured",
 		]
 	},
+ //Antarctica
+        {
+                "name": "The Great Igloo  ",
+		"isWonder": true,
+		"uniqueTo": "Antarctica",
+		"cost": 1,
+		"cityStrength": 2,
+		"cityHealth": 10,
+		"uniques": [
+			"Gain a free [Food Store] [in this city]",
+			"Can only be built [in capital]",
+     "[+1 Food] from [Permafrost] tiles [in all cities]",
+     "[+1 Food] from [Tundra] tiles [in all cities]",
+		],
+		"quote": "Placeholder",
+	  	"civilopediaText": [
+			{
+				"text": "Placeholder.",
+			},
+                   ]
+                },
+	{
+		"name": "Save Penguins",
+		"cost": 20,
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Antarctica",
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1] population [in all cities]",
+			"Free [Civilian Convoy] appears"
+		]
+	},
 ]
