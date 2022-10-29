@@ -272,4 +272,35 @@
 			"Free [Civilian Convoy] appears"
 		]
 	},
+        {
+                "name": "Stilt Houses",
+                "uniqueTo": "Antarctica",
+                "replaces": "Harbor",
+                "maintenance": 0,
+                "culture": 1,
+                "hurryCostModifier": 25,
+                "uniques": [
+			"[+10]% Production when constructing [Water] units [in this city]",
+			"Connects trade routes over water",
+			"Must be next to [Coast]"
+			"[+1 Culture] from [Coast] tiles [in this city]"
+		],
+		"requiredTech": "Navigation"
+	},
+        {
+                "name": "Still City",
+                "uniqueTo": "Antarctica",
+                "replaces": "Seaport",
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"culture": 1,
+		"gold":1,
+		"uniques": [
+			"[+1 Production] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]",
+			"[+15]% Production when constructing [Water] units [in this city]",
+			"Only available <in cities with a [Stilt Houses]"
+		],
+		"requiredTech": "Oceanography"
+          },
 ]
