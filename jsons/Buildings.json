@@ -246,8 +246,8 @@
 		"isWonder": true,
 		"uniqueTo": "Antarctica",
 		"cost": 1,
-		"cityStrength": 2,
-		"cityHealth": 10,
+		"cityStrength": 5,
+		"cityHealth": 30,
 		"uniques": [
 			"Gain a free [Food Store] [in this city]",
 			"Can only be built [in capital]",
@@ -276,6 +276,7 @@
                 "name": "Stilt Houses",
                 "uniqueTo": "Antarctica",
                 "replaces": "Harbor",
+                "cost": 35,
                 "maintenance": 0,
                 "culture": 1,
                 "hurryCostModifier": 25,
