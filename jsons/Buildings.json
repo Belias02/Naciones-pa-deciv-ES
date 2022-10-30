@@ -64,6 +64,12 @@
 			"Hidden when religion is disabled",
                         "Gain a free [Pantheon] belief",
 		],
+                 "quote": "We are not perfect, but we are capable of conceiving what perfection is.  Action is preferable to inaction and commitment to life is preferable to apathetic indifference.
+
+ –Antonio Guzman Blanco.",
+	  	"civilopediaText": [{"text": "We are not perfect, but we are capable of conceiving what perfection is.  Action is preferable to inaction and commitment to life is preferable to apathetic indifference.
+
+ –Antonio Guzman Blanco.",},]
 	},
 	{
 		"name": "Schola Latina",
