@@ -26,9 +26,6 @@
 		"name": "Asign Survivors",
 		"replaces": "Search for Survivors",
 		"uniqueTo": "Nuevo Paraíso",
-                "quote": "The way to govern well is to employ honest men, even if they are our enemies.
-
-                -Simón Bolívar",
                 "civilopediaText": [{"text": "The way to govern well is to employ honest men, even if they are our enemies.
 
                 -Simón Bolívar",},]
@@ -37,6 +34,9 @@
 		"uniques": [
 			"Free [Worker] appears",
                         "[+1 Production] per [3] population [in this city]",
+                "quote": "The way to govern well is to employ honest men, even if they are our enemies.
+
+                -Simón Bolívar",
 		]
 	},
   	{
