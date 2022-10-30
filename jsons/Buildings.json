@@ -60,9 +60,9 @@
 		"culture": 2,
                 "faith": 2,
                 "science": 2,
-                "quite": “We are not perfect, but we are capable of conceiving what perfection is.  Action is preferable to inaction and commitment to life is preferable to apathetic indifference."
+                "quite": “We are not perfect, but we are capable of conceiving what perfection is.  Action is preferable to inaction and commitment to life is preferable to apathetic indifference.
 
- –Antonio Guzmán Blanco.
+ –Antonio Guzmán Blanco.",
 		"uniques": [
 			"Requires a [Schola Latina] in all cities",
 			"Cost increases by [30] per owned city",
