@@ -18,11 +18,11 @@
 		],
 		"quote": "All of you must work for the inestimable good of the union: the people obeying the current government,to free themselves from anarchy; the ministers of the sanctuary directing their prayers to heaven;  and the military using their sword to defend social guarantees.
 
-“Simón Bolívar”",
+-Simón Bolívar",
 	  	"civilopediaText": [
 			{
 				"text": "All of you must work for the inestimable good of the union: the people obeying the current government, to free themselves from anarchy; the ministers of the sanctuary directing their prayers to heaven; and the military using their sword to defend social guarantees.
-Simón Bolívar",
+-Simón Bolívar",
 			},
 		]
 	},
@@ -60,6 +60,9 @@ Simón Bolívar",
 		"culture": 2,
                 "faith": 2,
                 "science": 2,
+                "quite": “We are not perfect, but we are capable of conceiving what perfection is.  Action is preferable to inaction and commitment to life is preferable to apathetic indifference."
+
+ –Antonio Guzmán Blanco.
 		"uniques": [
 			"Requires a [Schola Latina] in all cities",
 			"Cost increases by [30] per owned city",
