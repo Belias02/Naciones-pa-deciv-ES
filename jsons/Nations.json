@@ -39,7 +39,7 @@
 		"name": "Arkadia",
 		"leaderName": "Pike",
 		"adjective": ["Arkadians"],
-		"startBias": ["Wastedland"],
+		"startBias": ["Wasteland"],
 		"preferredVictoryType": "Transmission",
 		//"favoredReligion": "Humanism",
 
