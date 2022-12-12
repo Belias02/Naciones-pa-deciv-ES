@@ -110,8 +110,7 @@
 		"uniques": [
 		   	"[+2 Culture] per [4] population [in all cities]",
 			"[+1 Science] per [3] population [in all cities]",
-			"[+1 Faith] per [6] population [in all cities]",
-                        "Provides 1 happiness per 2 additional social policies adopted",
+                        "Provides 1 faith per 2 additional social policies adopted",
 			"Can only be built [in capital]",
                         "Only available <in cities without a [Council]>",
 			"Destroyed when the city is captured"
