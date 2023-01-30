@@ -1,76 +1,97 @@
 
 game.png
-size: 1024, 256
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Alliance Council
   rotate: false
-  xy: 628, 112
+  xy: 420, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Arkadian Triumvirate
   rotate: false
-  xy: 736, 112
+  xy: 1452, 888
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mount Weather
   rotate: false
-  xy: 844, 112
+  xy: 528, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/National Assembly
   rotate: false
-  xy: 420, 12
+  xy: 1244, 788
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Search for Arkadians
   rotate: false
-  xy: 736, 4
+  xy: 1560, 888
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Stilt Houses
+  rotate: false
+  xy: 524, 212
+  size: 512, 512
+  orig: 512, 512
   offset: 0, 0
   index: -1
 BuildingIcons/Wronku Meeting Chamber
   rotate: false
-  xy: 844, 4
+  xy: 636, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Nuevo Paraíso
+NationIcons/Antarctica
   rotate: false
-  xy: 628, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Coffee
-  rotate: false
-  xy: 4, 12
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TilesSets/FantasyHex/Units/Llanero
+NationIcons/Nuevo Paraíso
   rotate: false
-  xy: 952, 184
+  xy: 4, 212
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coffee
+  rotate: false
+  xy: 1036, 788
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Llanero
+  rotate: false
+  xy: 1036, 752
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Llanero
   rotate: false
-  xy: 212, 12
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+game
+  rotate: false
+  xy: 4, 732
+  size: 1024, 256
+  orig: 1024, 256
   offset: 0, 0
   index: -1
