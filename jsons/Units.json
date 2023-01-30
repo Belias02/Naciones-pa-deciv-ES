@@ -47,7 +47,7 @@
 	},
         {
 		"name": "Fisher team",
-		"uniqueTo": "Antártida",
+		"uniqueTo": "Antarctica",
 		"replaces": "Work Boats",
 		"unitType": "Civilian Water",
 		"movement": 4,
