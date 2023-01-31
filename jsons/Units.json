@@ -53,6 +53,6 @@
 		"movement": 4,
 		"cost": 25,
 		"requiredTech": "Navigation",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Navigation]>", "May create improvements on water resources", "Can build [Water] improvements on tiles", "Uncapturable"]
+		"uniques": ["Cannot enter ocean tiles <before discovering [Navigation]>", "May create improvements on water resources","Can build [Water] improvements on tiles", "Uncapturable"]
 	},
   ]
