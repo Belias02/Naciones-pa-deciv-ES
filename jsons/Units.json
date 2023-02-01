@@ -51,9 +51,8 @@
 		"replaces": "Work Boats",
 		"unitType": "Civilian Water",
 		"movement": 3,
-		"cost": 50,
+		"cost": 20,
 		"requiredTech": "Navigation",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Navigation]>", "Can build [Salvage site] improvements on tiles", "Can build [Wind farm] improvements on tiles", "Uncapturable",
-                "Can build [Oil well] improvements on tiles", "Can build [Fishing Boats] improvements on tiles", "Can build [Research site] improvements on tiles",]
+		"uniques": ["May create improvements on water resources", "Uncapturable"]
 	},
   ]
