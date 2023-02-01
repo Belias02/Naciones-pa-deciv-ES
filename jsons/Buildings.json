@@ -314,4 +314,17 @@
 		],
 		"requiredTech": "Oceanography"
           },
+          {
+		"name": "Club Penguin",
+		"replaces": "Market",
+		"uniqueTo": "Antarctica",
+		"gold": 1,
+		"happiness": 1,
+		"specialistSlots": { "Merchant": 2 },
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Gold] from [Luxury resource] tiles [in this city]","[+1 Culture] per [6] population [in this city]",
+		],
+		"requiredTech": "Trade"
+	 },
 ]
