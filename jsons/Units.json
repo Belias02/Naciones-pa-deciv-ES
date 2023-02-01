@@ -50,9 +50,10 @@
 		"uniqueTo": "Antarctica",
 		"replaces": "Work Boats",
 		"unitType": "Civilian Water",
-		"movement": 4,
-		"cost": 25,
+		"movement": 3,
+		"cost": 50,
 		"requiredTech": "Navigation",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Navigation]>", "May create improvements on water resources","Can build [Water] improvements on tiles", "Uncapturable"]
+		"uniques": ["Cannot enter ocean tiles <before discovering [Navigation]>", "Can build [Salvage site] improvements on tiles", "Can build [Wind farm] improvements on tiles", "Uncapturable",
+                "Can build [Oil well] improvements on tiles", "Can build [Fishing Boats] improvements on tiles", "Can build [Research site] improvements on tiles",]
 	},
   ]
