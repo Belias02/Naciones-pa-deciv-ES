@@ -298,7 +298,7 @@
 		"requiredTech": "Navigation"
 	},
         {
-                "name": "Still City",
+                "name": "Stilt City",
                 "uniqueTo": "Antarctica",
                 "replaces": "Seaport",
 		"hurryCostModifier": 25,
