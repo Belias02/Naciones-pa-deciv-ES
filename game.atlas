@@ -6,161 +6,161 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Alliance Council
   rotate: false
-  xy: 1532, 1035
+  xy: 1893, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Arkadian Triumvirate
   rotate: false
-  xy: 678, 129
+  xy: 1044, 1487
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Asign Survivors
   rotate: false
-  xy: 1556, 1741
+  xy: 524, 456
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
   index: -1
 BuildingIcons/Biomass Plant
   rotate: false
-  xy: 4, 237
+  xy: 4, 1252
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 BuildingIcons/Charity Center
   rotate: false
-  xy: 524, 237
+  xy: 4, 732
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 BuildingIcons/Coffee Hacienda
   rotate: false
-  xy: 1844, 1405
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Collegium Moralis
   rotate: false
-  xy: 1012, 781
+  xy: 1477, 1828
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Defense Parliament
   rotate: false
-  xy: 4, 757
-  size: 1000, 1000
-  orig: 1000, 1000
+  xy: 524, 744
+  size: 500, 500
+  orig: 500, 500
   offset: 0, 0
   index: -1
 BuildingIcons/Monument to the Great Unification
   rotate: false
-  xy: 1556, 1431
+  xy: 524, 146
   size: 280, 302
   orig: 280, 302
   offset: 0, 0
   index: -1
 BuildingIcons/Mount Weather
   rotate: false
-  xy: 1640, 1035
+  xy: 1044, 1379
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/National Assembly
   rotate: false
-  xy: 1220, 781
+  xy: 1044, 1595
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Public Debate Chamber
   rotate: false
-  xy: 1532, 1143
+  xy: 812, 456
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
   index: -1
 BuildingIcons/Schola Latina
   rotate: false
-  xy: 4, 4
+  xy: 1036, 1803
   size: 225, 225
   orig: 225, 225
   offset: 0, 0
   index: -1
 BuildingIcons/Search for Arkadians
   rotate: false
-  xy: 786, 129
+  xy: 1044, 1271
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stilt City
   rotate: false
-  xy: 237, 4
+  xy: 812, 223
   size: 225, 225
   orig: 225, 225
   offset: 0, 0
   index: -1
 BuildingIcons/Stilt Houses
   rotate: false
-  xy: 1012, 989
+  xy: 524, 1252
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 BuildingIcons/Wronku Meeting Chamber
   rotate: false
-  xy: 894, 129
+  xy: 1893, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Antarctica
   rotate: false
-  xy: 1844, 1821
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Nuevo Paraíso
   rotate: false
-  xy: 1036, 1509
+  xy: 4, 212
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 ResourceIcons/Coffee
   rotate: false
-  xy: 1844, 1613
+  xy: 1269, 1828
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Llanero
   rotate: false
-  xy: 1428, 953
+  xy: 812, 187
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Llanero
   rotate: false
-  xy: 470, 29
+  xy: 1685, 1828
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 game
   rotate: false
-  xy: 4, 1765
+  xy: 4, 1772
   size: 1024, 256
   orig: 1024, 256
   offset: 0, 0
