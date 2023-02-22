@@ -45,14 +45,4 @@
 		],
 		"attackSound": "cannon",
 	},
-        {
-		"name": "Fisher team",
-		"uniqueTo": "Antarctica",
-		"replaces": "Work Boats",
-		"unitType": "Civilian Water",
-		"movement": 4,
-		"cost": 20,
-		"requiredTech": "Navigation",
-		"uniques": ["May create improvements on water resources", "Uncapturable"]
-	},
   ]
