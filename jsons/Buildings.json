@@ -203,7 +203,8 @@
 		"cost": 1,
 		"uniques": [
 		"Indicates the capital city",
-		"[+1 Food, +1 Gold] from each Trade Route",]
+		"[+1 Food, +1 Gold] from each Trade Route",
+                "[+1 Production] [in all cities connected to capital]",]
 	},
         {
 		"name": "Search for Arkadians",
