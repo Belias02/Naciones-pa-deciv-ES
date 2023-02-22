@@ -103,15 +103,15 @@
   	"uniqueName": "Superior Spheniscidae",
   	"uniques": [
 		    "All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion",
-		     "All newly-trained [Land] units [in all cities] receive the [Spheniscidae] promotion",
+		    "All newly-trained [Land] units [in all cities] receive the [Spheniscidae] promotion",
 		    "[+15]% Strength <for [All] units> <when fighting in [Tundra] tiles>", 
 		    "[+15]% Strength <for [All] units> <when fighting in [Permafrost] tiles>", 
 		    "[-15]% Strength <for [All] units> <when fighting in [Desert] tiles>",
 		    "[1] Movement point cost to disembark",
-		    "[1] Movement point cost to embark"
-		    "Starts with [Sailing]"
-		    "Starts with [Navigation]"
-		    "[-1 Science] [in all cities] <before discovering [Writing]>"
+		    "[1] Movement point cost to embark",
+		    "Starts with [Sailing]",
+		    "Starts with [Navigation]",
+		    "[-1 Science] [in all cities] <before discovering [Writing]>",
 		               ],
 	  "cities": [
 	  "Pingüineton","Pescado","Hielo Pescadil","Pescado Congelado"],
