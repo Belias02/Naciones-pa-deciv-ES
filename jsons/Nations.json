@@ -16,7 +16,7 @@
 		"introduction": "Welcome to the last paradise on earth",
 		"neutralHello": "We welcome you.",
 		"hateHello": "Are you here to surrender?",
-		"tradeRequest": "This may help you.",*/
+		"tradeRequest": "This may help you.",
 
 		"outerColor": [127, 0, 40],
 		"innerColor": [245, 217, 0],
@@ -40,7 +40,7 @@
                         "Caracas",
                         "Mérida",
                         
-		]
+		],
 	},
         {
 		"name": "Arkadia",
@@ -79,7 +79,7 @@
                         "Echo",
                         "Foxtrot",
                         "Golf",
-		                   ]
+		                   ],
          },
          {
           "name": "Antarctica",
