@@ -64,8 +64,8 @@
 		"style": "Arkadio",
 		"uniqueName": "Technological Superiority",
                 "uniques": [
-		"[+10]% Strength <vs [Barbarian] units>",
-                "[+10]% Strength <vs [Low Tech] units>",
+		"[+15]% Strength <vs [Barbarian] units>",
+                "[+15]% Strength <vs [Low Tech] units>",
 		"+15% Strength when fighting City-State units and cities",
                 "Starts with [Trade]",
                 ],
