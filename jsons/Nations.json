@@ -33,6 +33,12 @@
 			"Unión",
 			"Honoris",
                         "Solidaridad",
+                        "Fuerte Patientia",
+                        "Zulia",
+                        "Bolivar City",
+                        "Caracas",
+                        "Mérida",
+                        
 		]
 	},
         {
@@ -65,8 +71,12 @@
                 ],
 		"cities": [
 			"Alpha",
-			"Beta",
+			"Bravo",
 			"Charlie",
+                        "Delta",
+                        "Echo",
+                        "Foxtrot",
+                        "Golf",
 		                   ]
          },
          {
