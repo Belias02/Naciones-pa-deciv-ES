@@ -37,9 +37,8 @@
 		"obsoleteTech": "Munitions",
 		"uniques": [
 			"[+25]% Strength <vs [Low Tech] units>",
-			"[+10]% Strength <vs [Mounted] units>",
-			"[-33]% Strength <vs [Armor] units>",
-			"[-1] Sight",
+			"[+33]% Strength <vs [Mounted] units>",
+			"[-50]% Strength <vs [Armor] units>",
 			"Consumes [1] [Weapons]",
 			"Never appears as a Barbarian unit",
 		],
