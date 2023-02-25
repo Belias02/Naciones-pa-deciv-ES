@@ -151,9 +151,58 @@ ResourceIcons/Coffee
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Llanero
+TileSets/FantasyHex/Units/Archer-Paradisíaco
   rotate: false
   xy: 1277, 916
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bandit-Paradisíaco
+  rotate: false
+  xy: 1840, 1792
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gunman-Paradisíaco
+  rotate: false
+  xy: 1044, 242
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Infantry-Paradisíaco
+  rotate: false
+  xy: 1552, 1582
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Llanero
+  rotate: false
+  xy: 420, 68
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Looter-Paradisíaco
+  rotate: false
+  xy: 1332, 968
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Militia-Paradisíaco
+  rotate: false
+  xy: 1440, 1076
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Raider-Paradisíaco
+  rotate: false
+  xy: 1768, 1690
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
