@@ -23,7 +23,7 @@
 -Simón Bolívar",},]
 	},
 	{
-		"name": "Asign Survivors",
+		"name": "Assign Survivors",
 		"replaces": "Search for Survivors",
 		"uniqueTo": "Nuevo Paraíso",
                 "civilopediaText": [{"text": "The way to govern well is to employ honest men, even if they are our enemies.
@@ -253,7 +253,7 @@
 	},
  //Antarctica
         {
-                "name": "The Great Igloo  ",
+                "name": "The Great Igloo",
 		"isWonder": true,
 		"uniqueTo": "Antarctica",
 		"cost": 1,
@@ -262,9 +262,9 @@
 		"uniques": [
 			"Gain a free [Food Store] [in this city]",
 			"Can only be built [in capital]",
-     "[+1 Food] from [Permafrost] tiles [in all cities]",
-     "[+1 Food] from [Tundra] tiles [in all cities]",
-		],
+                        "[+1 Food] from [Permafrost] tiles [in all cities]",
+                        "[+1 Food] from [Tundra] tiles [in all cities]",
+		           ],
 		"quote": "Placeholder",
 	  	"civilopediaText": [
 			{
