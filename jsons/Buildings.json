@@ -5,7 +5,6 @@
 		"isWonder": true,
 		"uniqueTo": "Nuevo Paraíso",
 		"culture": 1,
-                "production": 2,
                 "faith": 1,
 		"cost": 1,
 		"uniques": [
@@ -33,7 +32,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Free [Worker] appears",
-                        "[+1 Production] per [3] population [in this city]",
+                        "[+1 Production] per [4] population [in this city]",
 		]
                 "quote": "The way to govern well is to employ honest men, even if they are our enemies.
 
@@ -42,7 +41,7 @@
   	{
 		"name": "Biomass Plant",
     		"uniqueTo": "Nuevo Paraíso",
-		"Cost": 160,
+		"Cost": 170,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
