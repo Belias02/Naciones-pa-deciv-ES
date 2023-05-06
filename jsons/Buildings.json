@@ -107,9 +107,9 @@
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"uniques": [
-		   	"[+2 Culture] per [4] population [in all cities]",
-			"[+1 Science] per [3] population [in all cities]",
-                        "Provides [+1 Faith] per [2] additional social policies adopted",
+		   	"[+1 Culture] per [4] population [in all cities]",
+			"[+1 Science] per [4] population [in all cities]",
+                        "[15]% Food is carried over after population increases [in all cities]",
 			"Can only be built [in capital]",
                         "Only available <in cities without a [Council]>",
 			"Destroyed when the city is captured"
