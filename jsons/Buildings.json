@@ -123,7 +123,7 @@
 		"uniques": [
 			"Double quantity of [Oil] produced",
 			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
-			"[+1 Gold] per [3] population [in all cities]",
+                        "[-25]% maintenance costs <for [All] units>",
                         "[+1] Sight <for [All] units>",
 			"Destroyed when the city is captured",
 			"Can only be built [in capital]",
