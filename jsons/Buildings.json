@@ -328,4 +328,27 @@
 		],
 		"requiredTech": "Trade"
 	 },
-]
+//Unified Barbarians
+{
+		"name": "God- King Castle:",
+		"isWonder": true,
+		"uniqueTo": "The Unified Barbarians",
+		"faith": 1,
+		"culture": 1,
+		"cityStrength": 10,
+		"cityHealth": 25,
+		"cost": 1,
+		"uniques": [
+		"May choose [1] additional [Pantheon] beliefs when [founding] a religion",
+		"Free [Machete] appears",
+		"Can only be built [in capital]",
+		"Gain a free [Armory] [in this city]"
+		],
+		"quote": "Placeholder.",
+		"civilopediaText": [
+			{
+				"text": "Place holder."
+			}
+		]
+	},
+	]
