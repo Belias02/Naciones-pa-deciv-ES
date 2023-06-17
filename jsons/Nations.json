@@ -118,4 +118,37 @@
 	  "cities": [
 	  "Pingüineton","Pescado","Hielo Pescadil","Pescado Congelado"],
   },
+	{
+          "name": "The Unified Barbarians",
+	  "leaderName": "Wirapocha",
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [185,12,12],
+
+	  "startBias": ["Hills"],
+	  "preferredVictoryType": "Domination",
+	  "favoredReligion": "Naturism",
+
+  	"startIntroPart1": "Placeholder",
+  	"startIntroPart2": "close",
+  	"introduction": "",
+        "declaringWar": "",
+  	"attacked": "",
+  	"afterPeace": "",
+  	"defeated": "",
+  	"neutralHello": "l",
+  	"hateHello": "",
+  	"tradeRequest": "",
+		
+  	"uniqueName": "The Great Unification",
+  	"uniques": [
+		    "When defeating a [Barbarian] unit, earn [3] Gold and recruit it <with [100]% chance>",
+		    "When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [0]% chance>",
+		    "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately",
+		    "Resting point for Influence with City-States is increased by [-10]",
+"[-100]% City-State Influence degradation"],
+"[-15]% Science [in all cities]",
+"Starts with [Secrets of the Past]",
+"Starts with [Theocracy] adopted"],
+	  "cities": ["The King's Seat"],
+  },
   ]
