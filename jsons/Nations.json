@@ -124,7 +124,7 @@
 	  "outerColor": [0, 0, 0],
 	  "innerColor": [185,12,12],
 
-	  "startBias": ["Hills"],
+	  "startBias": ["Hill"],
 	  "preferredVictoryType": "Domination",
 	  "favoredReligion": "Naturism",
 
