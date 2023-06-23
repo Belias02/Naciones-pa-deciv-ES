@@ -6,21 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Alliance Council
   rotate: false
-  xy: 1552, 1618
+  xy: 1852, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Arkadian Triumvirate
   rotate: false
-  xy: 420, 104
+  xy: 1044, 302
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Asign Survivors
   rotate: false
-  xy: 1044, 1240
+  xy: 1564, 1748
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
@@ -39,72 +39,93 @@ BuildingIcons/Charity Center
   orig: 512, 512
   offset: 0, 0
   index: -1
+BuildingIcons/Club Penguin
+  rotate: false
+  xy: 1332, 484
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Coffee Hacienda
   rotate: false
-  xy: 1840, 1828
+  xy: 1552, 1074
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Collegium Moralis
   rotate: false
-  xy: 1044, 278
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Defense Parliament
   rotate: false
-  xy: 1044, 1528
+  xy: 1044, 1008
   size: 500, 500
   orig: 500, 500
   offset: 0, 0
   index: -1
+BuildingIcons/God-King Castle
+  rotate: false
+  xy: 628, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Monument to the Great Unification
   rotate: false
-  xy: 1552, 1726
+  xy: 1044, 698
   size: 280, 302
   orig: 280, 302
   offset: 0, 0
   index: -1
 BuildingIcons/Mount Weather
   rotate: false
-  xy: 1332, 1004
+  xy: 1852, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/National Assembly
   rotate: false
-  xy: 1332, 1112
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Public Debate Chamber
   rotate: false
-  xy: 1044, 952
+  xy: 1044, 410
   size: 280, 280
   orig: 280, 280
   offset: 0, 0
   index: -1
+BuildingIcons/Save Penguins
+  rotate: false
+  xy: 1152, 302
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Schola Latina
   rotate: false
-  xy: 1044, 719
+  xy: 1564, 1515
   size: 225, 225
   orig: 225, 225
   offset: 0, 0
   index: -1
 BuildingIcons/Search for Arkadians
   rotate: false
-  xy: 1660, 1618
+  xy: 736, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stilt City
   rotate: false
-  xy: 1044, 486
+  xy: 1552, 1282
   size: 225, 225
   orig: 225, 225
   offset: 0, 0
@@ -116,9 +137,16 @@ BuildingIcons/Stilt Houses
   orig: 512, 512
   offset: 0, 0
   index: -1
+BuildingIcons/The Great Igloo
+  rotate: false
+  xy: 844, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Wronku Meeting Chamber
   rotate: false
-  xy: 528, 104
+  xy: 1440, 484
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -144,72 +172,93 @@ NationIcons/Nuevo Paraíso
   orig: 512, 512
   offset: 0, 0
   index: -1
+NationIcons/The Unified Barbarians
+  rotate: false
+  xy: 1044, 1516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
 ResourceIcons/Coffee
   rotate: false
-  xy: 1332, 1320
+  xy: 1332, 800
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Paradisíaco
   rotate: false
-  xy: 1277, 916
+  xy: 1797, 1712
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bandit-Paradisíaco
   rotate: false
-  xy: 1840, 1792
+  xy: 1960, 2000
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Biker-Paradisíaco
+  rotate: false
+  xy: 1044, 266
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gunman-Paradisíaco
   rotate: false
-  xy: 1044, 242
+  xy: 1332, 448
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Paradisíaco
   rotate: false
-  xy: 1552, 1582
+  xy: 628, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Llanero
   rotate: false
-  xy: 420, 68
+  xy: 1852, 1784
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Looter-Paradisíaco
   rotate: false
-  xy: 1332, 968
+  xy: 1260, 374
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Militia-Paradisíaco
   rotate: false
-  xy: 1440, 1076
+  xy: 952, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Raider-Paradisíaco
   rotate: false
-  xy: 1768, 1690
+  xy: 1610, 1038
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-Paradisiaco
+  rotate: false
+  xy: 1797, 1676
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Llanero
   rotate: false
-  xy: 212, 4
+  xy: 1332, 592
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -219,6 +268,13 @@ UnitIcons/Sonic Cannon
   xy: 524, 732
   size: 512, 512
   orig: 512, 512
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Spheniscidae
+  rotate: false
+  xy: 1552, 1016
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 game
