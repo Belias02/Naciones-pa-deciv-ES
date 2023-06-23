@@ -91,8 +91,8 @@
 	  "preferredVictoryType": "Domination",
 	  "favoredReligion": "Naturism",
 
-  	"startIntroPart1": "Placeholder",
-  	"startIntroPart2": "close",
+  	"startIntroPart1": "As the Antarcticans emerge from the remnants of the past, they stand ready to forge a new destiny. Guided by their leader, Günther the Great, they will strive to surpass the humans who slave them, building a civilization that transcends the ashes of the old world. The time has come for them to rise and claim their rightful place as the masters of this land. Will you join them in their pursuit of revenge and domination?",
+  	"startIntroPart2": "The choice is yours.",
 	"introduction": "Hello, nice to meet you (penguin language translated to English)",
         "declaringWar": "I'm sorry, but that's how it has to be.",
   	"attacked": "So you underestimate penguins huh?  Well suffer the consequences!",
