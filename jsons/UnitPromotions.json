@@ -2,6 +2,6 @@
     //Antarctica
         {
 		"name": "Spheniscidae",
-		"uniques": ["May attack when embarked"],
+		"uniques": ["May attack when embarked", "May travel on Water tiles without embarking"],
 	},
 ]
