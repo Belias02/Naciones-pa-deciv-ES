@@ -38,7 +38,7 @@
 		"uniques": [
 			"[+25]% Strength <vs [Low Tech] units>",
 			"[+33]% Strength <vs [Mounted] units>",
-			"[-50]% Strenght <vs [Armored] units> <when attacking> ",
+			"[-50]% Strength <vs [Armored] units> <when attacking> ",
 			"Consumes [1] [Weapons]",
 			"Never appears as a Barbarian unit",
 		],
