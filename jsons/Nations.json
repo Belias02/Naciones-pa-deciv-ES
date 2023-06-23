@@ -1,7 +1,7 @@
 [
 {
 		"name": "Nuevo Paraíso",
-		"leaderName": "El unificador",
+		"leaderName": "El Unificador",
 		"adjective": ["Paradisians"],
 		"startBias": ["Badlands"],
 		"preferredVictoryType": "Domination",
@@ -91,7 +91,7 @@
 	  "preferredVictoryType": "Domination",
 	  "favoredReligion": "Naturism",
 
-  	"startIntroPart1": " Placeholder",
+  	"startIntroPart1": "Placeholder",
   	"startIntroPart2": "close",
 	"introduction": "Hello, nice to meet you (penguin language translated to English)",
         "declaringWar": "I'm sorry, but that's how it has to be.",
