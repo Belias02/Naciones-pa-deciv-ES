@@ -44,4 +44,26 @@
 		],
 		"attackSound": "cannon",
 	},
+	{
+		"name": "Ambusher",
+		"replaces": "Crossbowman",
+		"uniqueTo": "The Unified Barbarians",
+		"unitType": "Shooter",
+		"range": 1,
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 20,
+		"cost": 40,
+		"hurryCostModifier": 20,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Gunman",
+		"uniques": [
+			"Low Tech",
+			"[+50]% Strength <vs [Low Tech] units>",
+			"Ignores terrain cost",
+			"Invisible to non-adjacent units"
+		],
+		"attackSound": "arrow"
+	},
   ]
