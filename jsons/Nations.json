@@ -146,7 +146,7 @@
 		    "When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [0]% chance>",
 		    "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately",
 		    "Resting point for Influence with City-States is increased by [-10]",
-                    "[-100]% City-State Influence degradation",
+                    "[+100]% City-State Influence degradation",
                     "[-15]% [Science] [in all cities]",
                     "Starts with [Secrets of the Past]",
                     "Starts with [Theocracy] adopted"],
