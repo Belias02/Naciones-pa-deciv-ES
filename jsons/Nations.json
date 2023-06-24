@@ -117,6 +117,7 @@
 		               ],
 	  "cities": [
 	  "Pingüineton","Pescado","Hielo Pescadil","Pescado Congelado"],
+          "civilopediaText": [ { "text": "In the aftermath of the great apocalypse that ravaged the world, a new civilization rose from the frigid depths of Antarctica. Led by the enigmatic Günther the Great, this group of mutant penguins found solace in their icy homeland, vowing to reclaim their rightful place as masters of the Earth." } ],
   },
 	{
           "name": "The Unified Barbarians",
