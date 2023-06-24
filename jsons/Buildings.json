@@ -351,4 +351,30 @@
 			}
 		]
 	},
+        {
+		"name": "God-King Statue",
+		"replaces": "Monument",
+		"uniqueTo": "The Unified Barbarians",
+		"culture": 2,
+		"faith": 1,
+		"cost": 40,
+		"hurryCostModifier": 40
+	},
+        {
+		"name": "Trial by Combat",
+		"replaces": "Listening Post",
+		"uniqueTo": "The Unified Barbarians",
+		"maintenance": 1,
+		"happiness": 1,
+	        "culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"[+10]% Great Person generation [in this city]",
+			"[+25]% Great Person generation [in this city] <after adopting [Supremacy]>",
+			"New [Military] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Civil Service"
+	},
 	]
