@@ -335,7 +335,7 @@
 		"uniqueTo": "The Unified Barbarians",
 		"faith": 1,
 		"culture": 1,
-		"cityStrength": 10,
+		"cityStrength": 7,
 		"cityHealth": 25,
 		"cost": 1,
 		"uniques": [
