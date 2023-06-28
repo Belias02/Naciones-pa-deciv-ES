@@ -28,7 +28,7 @@
 			"Starts with [Secrets of the Past]",
 			"[-2 Happiness] [in all cities] <before discovering [Radio]>",
 			"Cannot build [Enslaved] units"
-		]
+		],
 		// Fake uniques to help understand the nation
 		"cities": [
 			"Unión",
@@ -57,11 +57,11 @@
 		"introduction": "Greetings, Earthling.",
 		"neutralHello": "Even with all its faults, Earth is really beautiful.",
 		"hateHello": "You're watching us, but you haven't seen a thing.",
-		"afterPeace": "If the two of us can get along, then perhaps there’s hope.",
-		"tradeRequest": "If we stick together, I give you my word. We won’t just survive. We’ll thrive.",
+		"afterPeace": "If the two of us can get along, then perhaps there's hope.",
+		"tradeRequest": "If we stick together, I give you my word. We won't just survive. We'll thrive.",
 
-		"outerColor": [6, 255, 6], 
-                "innerColor": [3, 0, 77],
+		"outerColor": [6, 255, 6],
+		"innerColor": [3, 0, 77],
 		"style": "Arkadio",
 		"uniqueName": "Technological Superiority",
                 "uniques": [
