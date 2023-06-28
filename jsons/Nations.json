@@ -1,5 +1,5 @@
 [
-{
+	{
 		"name": "Nuevo Paraíso",
 		"leaderName": "El Unificador",
 		"adjective": ["Paradisians"],
@@ -7,15 +7,15 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Humanism",
 
-		"startIntroPart1": "'Placeholder.'",
-		"startIntroPart2": "'placeholder.'",
-		"declaringWar": "First the native soil than anything else. Our life is nothing more than the heritage of our country,so my people, Let's put fear behind our backs and save the homeland",
+		// "startIntroPart1": "'Placeholder.'",
+		// "startIntroPart2": "'placeholder.'",
+		"declaringWar": "First the native soil, then anything else. Our life is nothing more than the heritage of our country, so my people, Let's put fear behind our backs and save the homeland.",
 		"attacked": "If the toad jumps and sticks in the stake, whose fault is it, the stake or the toad?",
-		"defeated": "Paradisians! My last Wish is for the happiness of the patria. If my dead contributes to the end of partisanship and the consolidation of union, I shall be lowered in peace into my grave.",
-                "afterPeace": "As a wise man once said: An eye for an eye will only make the whole world blind.",
-		"introduction": "Welcome to the last paradise on earth",
+		"defeated": "Paradisians! My last Wish is for the happiness of the patria. If my death contributes to the end of partisanship and the consolidation of union, I shall be lowered in peace into my grave.",
+		"introduction": "Welcome to the last paradise on Earth.",
 		"neutralHello": "We welcome you.",
 		"hateHello": "Are you here to surrender?",
+		"afterPeace": "As a wise man once said: An eye for an eye will only make the whole world blind.",
 		"tradeRequest": "This may help you.",
 
 		"outerColor": [127, 0, 40],
@@ -27,20 +27,19 @@
 			"[+1 Happiness] [in all cities] <after discovering [Radio]>",
 			"Starts with [Secrets of the Past]",
 			"[-2 Happiness] [in all cities] <before discovering [Radio]>",
-			"Cannot build [Enslaved] units",          
-  // Fake uniques to help understand the nation
-		],
+			"Cannot build [Enslaved] units"
+		]
+		// Fake uniques to help understand the nation
 		"cities": [
 			"Unión",
 			"Honoris",
-                        "Solidaridad",
-                        "Fuerte Patientia",
-                        "Zulia",
-                        "Bolivar City",
-                        "Caracas",
-                        "Mérida",
-                        
-		],
+                	"Solidaridad",
+                	"Fuerte Patientia",
+                	"Zulia",
+                	"Bolivar City",
+                	"Caracas",
+                	"Mérida" 
+		]
 	},
         {
 		"name": "Arkadia",
@@ -50,15 +49,15 @@
 		"preferredVictoryType": "Transmission",
 		"favoredReligion": "Humanism",
 
-		"startIntroPart1": "This is our home now. We built this from nothing with our bare hands! Our dead are buried behind that wall, in this ground. Our ground! Some earthlings think they can take that away? They think that because we came from the sky we don’t belong here! But they have yet to realize one very important fact. We are on the ground now. And that means *we* are earthlings!.",
+		"startIntroPart1": "This is our home now. We built this from nothing with our bare hands! Our dead are buried behind that wall, in this ground. Our ground! Some Earthlings think they can take that away? They think that because we came from the sky we don't belong here! But they have yet to realize one very important fact. We are on the ground now. And that means *we* are Earthlings!.",
 		"startIntroPart2": "Tonight, we celebrate our newfound peace. Tomorrow, we plan our war.",
 		"declaringWar": "There are people worth saving. Just not you.",
 		"attacked": "What you did tonight will haunt you until the end of your days.",
-		"afterPeace": "If the two of us can get along, then perhaps there’s hope.",
                 "defeated": "Somehow we allowed justice to become vengeance and vengeance to become sport, and I allowed that, that darkness to rise… but my complicity ends today.",
-		"introduction": "Greetings earthling",
+		"introduction": "Greetings, Earthling.",
 		"neutralHello": "Even with all its faults, Earth is really beautiful.",
-		"hateHello": "You’re watching us, but you haven’t seen a thing.",
+		"hateHello": "You're watching us, but you haven't seen a thing.",
+		"afterPeace": "If the two of us can get along, then perhaps there’s hope.",
 		"tradeRequest": "If we stick together, I give you my word. We won’t just survive. We’ll thrive.",
 
 		"outerColor": [6, 255, 6], 
@@ -66,90 +65,95 @@
 		"style": "Arkadio",
 		"uniqueName": "Technological Superiority",
                 "uniques": [
-		"[+15]% Strength <vs [Barbarian] units>",
-                "[+15]% Strength <vs [Low Tech] units>",
-		"+15% Strength when fighting City-State units and cities",
-                "Starts with [Trade]",
+			"[+15]% Strength <vs [Barbarian] units>",
+        		"[+15]% Strength <vs [Low Tech] units>",
+			"+30% Strength when fighting City-State units and cities",
+        		"Starts with [Trade]"
                 ],
 		"cities": [
 			"Alpha",
 			"Bravo",
 			"Charlie",
-                        "Delta",
-                        "Echo",
-                        "Foxtrot",
-                        "Golf",
-		                   ],
-         },
-         {
-          "name": "Antarctica",
-	  "leaderName": "Günther the Great",
-	  "outerColor": [0, 0, 0],
-	  "innerColor": [255,255,255],
-
-	  "startBias": ["Tundra", "Coast"],
-	  "preferredVictoryType": "Domination",
-	  "favoredReligion": "Naturism",
-
-  	"startIntroPart1": "As the Antarcticans emerge from the remnants of the past, they stand ready to forge a new destiny. Guided by their leader, Günther the Great, they will strive to surpass the humans who slave them, building a civilization that transcends the ashes of the old world. The time has come for them to rise and claim their rightful place as the masters of this land. Will you join them in their pursuit of revenge and domination?",
-  	"startIntroPart2": "The choice is yours.",
-	"introduction": "Hello, nice to meet you (penguin language translated to English)",
-        "declaringWar": "I'm sorry, but that's how it has to be.",
-  	"attacked": "So you underestimate penguins huh?  Well suffer the consequences!",
-  	"afterPeace": "Do you realize now who is superior?",
-  	"defeated": "Maybe I underestimated you, what will you do now that you have enslaved our race?",
-  	"neutralHello": "Yes?",
-  	"hateHello": "What does the monkey want?",
-  	"tradeRequest": "What about this?",
-		
-  	"uniqueName": "Superior Spheniscidae",
-  	"uniques": [
-		    "All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion",
-		    "All newly-trained [Land] units [in all cities] receive the [Spheniscidae] promotion",
-		    "[+15]% Strength <for [All] units> <when fighting in [Tundra] tiles>", 
-		    "[+15]% Strength <for [All] units> <when fighting in [Permafrost] tiles>", 
-		    "[-15]% Strength <for [All] units> <when fighting in [Desert] tiles>",
-		    "[1] Movement point cost to disembark",
-		    "[1] Movement point cost to embark",
-		    "Starts with [Sailing]",
-		    "Starts with [Navigation]",
-		    "[-1 Science] [in all cities] <before discovering [Writing]>",
-		               ],
-	  "cities": [
-	  "Pingüineton","Pescado","Hielo Pescadil","Pescado Congelado"],
-          "civilopediaText": [ { "text": "In the aftermath of the great apocalypse that ravaged the world, a new civilization rose from the frigid depths of Antarctica. Led by the enigmatic Günther the Great, this group of mutant penguins found solace in their icy homeland, vowing to reclaim their rightful place as masters of the Earth." } ],
-  },
+			"Delta",
+			"Echo",
+			"Foxtrot",
+			"Golf",
+			"Hotel",
+			"India"
+		]
+	},
 	{
-          "name": "The Unified Barbarians",
-	  "leaderName": "Wirapocha",
-	  "outerColor": [0, 0, 0],
-	  "innerColor": [185,12,12],
+		"name": "Antarctica",
+		"leaderName": "Günther the Great",
+		"startBias": ["Tundra", "Coast"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Naturism",
 
-	  "startBias": ["Hill"],
-	  "preferredVictoryType": "Domination",
-	  "favoredReligion": "Naturism",
+		"startIntroPart1": "As the Antarcticans emerge from the remnants of the past, they stand ready to forge a new destiny. Guided by their leader, Günther the Great, they will strive to surpass the humans who slave them, building a civilization that transcends the ashes of the old world. The time has come for them to rise and claim their rightful place as the masters of this land. Will you join them in their pursuit of revenge and domination?",
+		"startIntroPart2": "The choice is yours.",
+		"introduction": "Hello, nice to meet you (penguin language translated to English)",
+		"declaringWar": "I'm sorry, but that's how it has to be.",
+		"attacked": "So you underestimate penguins huh?  Well suffer the consequences!",
+		"defeated": "Maybe I underestimated you, what will you do now that you have enslaved our race?",
+		"neutralHello": "Yes?",
+		"hateHello": "What does the monkey want?",
+		"afterPeace": "Do you realize now who is superior?",
+		"tradeRequest": "What about this?",
 
-  	"startIntroPart1": "Placeholder",
-  	"startIntroPart2": "close",
-  	"introduction": "",
-        "declaringWar": "",
-  	"attacked": "",
-  	"afterPeace": "",
-  	"defeated": "",
-  	"neutralHello": "l",
-  	"hateHello": "",
-  	"tradeRequest": "",
-		
-  	"uniqueName": "The Great Unification",
-  	"uniques": [
-		    "When defeating a [Barbarian] unit, earn [3] Gold and recruit it <with [100]% chance>",
-		    "When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [0]% chance>",
-		    "Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately",
-		    "Resting point for Influence with City-States is increased by [-10]",
-                    "[+100]% City-State Influence degradation",
-                    "[-15]% [Science] [in all cities]",
-                    "Starts with [Secrets of the Past]",
-                    "Starts with [Theocracy] adopted"],
-	  "cities": ["The King's Seat"],
-  },
-  ]
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Superior Spheniscidae",
+		"uniques": [
+			"All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion",
+			"All newly-trained [Land] units [in all cities] receive the [Spheniscidae] promotion",
+			"[+15]% Strength <for [All] units> <when fighting in [Tundra] tiles>", 
+			"[+15]% Strength <for [All] units> <when fighting in [Permafrost] tiles>", 
+			"[-15]% Strength <for [All] units> <when fighting in [Desert] tiles>",
+			"[1] Movement point cost to disembark",
+			"[1] Movement point cost to embark",
+			"Starts with [Sailing]",
+			"Starts with [Navigation]",
+			"[-1 Science] [in all cities] <before discovering [Writing]>"
+		],
+	  "cities": ["Pingüineton","Pescado","Hielo Pescadil","Pescado Congelado"],
+          "civilopediaText": [
+			{
+				"text": "In the aftermath of the great apocalypse that ravaged the world, a new civilization rose from the frigid depths of Antarctica. Led by the enigmatic Günther the Great, this group of mutant penguins found solace in their icy homeland, vowing to reclaim their rightful place as masters of the Earth."
+			}
+		]
+	},
+	{
+		"name": "The Unified Barbarians",
+		"leaderName": "Wirapocha",
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Naturism",
+
+		// "startIntroPart1": "Placeholder",
+		// "startIntroPart2": "close",
+		"introduction": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"neutralHello": "",
+		"hateHello": "",
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [185,12,12],
+		"style": "Barbarians",
+		"uniqueName": "The Great Unification",
+		"uniques": [
+			"When defeating a [Barbarian] unit, earn [3] Gold and recruit it <with [100]% chance>",
+			"When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <with [0]% chance>",
+			"Upon capturing a city, receive [3] times its [Gold] production as [Culture] immediately",
+			"Resting point for Influence with City-States is increased by [-10]",
+        		"[+100]% City-State Influence degradation",
+        		"[-15]% [Science] [in all cities]",
+        		"Starts with [Secrets of the Past]",
+        		"Starts with [Theocracy] adopted",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["The King's Seat"]
+	}
+]
