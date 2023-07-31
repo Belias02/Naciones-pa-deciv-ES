@@ -67,7 +67,7 @@
                 "uniques": [
 			"[+15]% Strength <vs [Barbarian] units>",
         		"[+15]% Strength <vs [Low Tech] units>",
-			"+30% Strength when fighting City-State units and cities",
+			"+30% Strength when fighting City-State units and cities",
         		"Starts with [Trade]"
                 ],
 		"cities": [
@@ -79,7 +79,24 @@
 			"Foxtrot",
 			"Golf",
 			"Hotel",
-			"India"
+			"India",
+			"Juliet",
+			"Kilo",
+			"Lima",
+			"Mike",
+			"November",
+			"Oscar",
+			"Papa",
+			"Quebec",
+			"Romeo",
+			"Sierra",
+			"Tango",
+			"Uniform",
+			"Victor",
+			"Whiskey",
+			"X-Ray",
+			"Yankee",
+			"Zulu"
 		]
 	},
 	{
