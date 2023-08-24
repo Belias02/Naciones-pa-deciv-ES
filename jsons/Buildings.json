@@ -256,6 +256,8 @@
 		"isWonder": true,
 		"uniqueTo": "Antarctica",
 		"cost": 1,
+		"culture": 1,
+		"food": 1,
 		"cityStrength": 5,
 		"cityHealth": 30,
 		"uniques": [
