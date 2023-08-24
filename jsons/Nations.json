@@ -128,6 +128,7 @@
 			"[-15]% Strength <for [All] units> <when fighting in [Desert] tiles>",
 			"[1] Movement point cost to disembark",
 			"[1] Movement point cost to embark",
+			"[+1] Sight <for [Embarked] units>",
 			"Starts with [Sailing]",
 			"Starts with [Navigation]",
 			"[-1 Science] [in all cities] <before discovering [Writing]>"
