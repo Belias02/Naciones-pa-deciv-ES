@@ -66,19 +66,4 @@
 		],
 		"attackSound": "arrow"
 	},
-	{
-		"name": "Penguin Group",
-		"replaces": "Work Boats",
-		"uniqueTo": "Antarctica",
-		"unitType": "Civilian Water",
-		"movement": 4,
-		"cost": 40,
-		"requiredTech": "Sailing",
-		"uniques": [
-			"Uncapturable",
-			"Can instantly construct a [Water] improvement <for [1] movement>",
-			"Automation is a primary action"
-		],
-		"hurryCostModifier": 20
-	},
   ]
