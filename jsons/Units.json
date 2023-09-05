@@ -85,4 +85,21 @@
 		"promotions": ["Reconnaissance I", "Skirmish", "Sentry"],
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Blessed General",
+		"unitType": "Civilian",
+		"replaces": "Great General",
+		"uniqueTo": "The Unified Barbarians",
+		"uniques": [
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"Can see over obstacles",
+			"Ignores terrain cost",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"[-10%] Strength for enemy [Military] units in adjacent [All] tiles",
+			"Great Person - [War]",
+			"Unbuildable",
+			"Uncapturable"
+		],
+		"movement": 2
+	},
   ]
