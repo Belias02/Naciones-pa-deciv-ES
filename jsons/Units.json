@@ -66,4 +66,23 @@
 		],
 		"attackSound": "arrow"
 	},
+		{
+		"name": "Spotter",
+		"replaces": "Scout",
+		"uniqueTo": "The Unified Barbarians",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 12,
+		"cost": 25,
+		"upgradesTo": "Attack Vehicle",
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Rifling",
+		"uniques": [
+			"Low Tech",
+			"[-50]% Strength <vs cities>",
+			"Unable to capture cities"
+		],
+		"promotions": ["Reconnaissance I", "Skirmish", "Sentry"],
+		"attackSound": "nonmetalhit"
+	},
   ]
