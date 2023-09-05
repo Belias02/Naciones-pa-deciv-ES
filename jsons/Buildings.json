@@ -379,4 +379,67 @@
 		],
 		"requiredTech": "Civil Service"
 	},
+        {
+		"name": "Martial Monastery",
+		"replaces": "Monastery",
+		"uniqueTo": "The Unified Barbarians",
+		"faith": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Shrine]>",
+			"New [Military] units start with [10] Experience [in this city]",
+			"Hidden when religion is disabled"
+		]
+	},
+        {
+		"name": "Grand Cathedral",
+		"isNationalWonder": true,
+		"replaces": "Grand Monastery",
+		"uniqueTo": "The Unified Barbarians",
+		"culture": 4,
+		"faith": 8,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Requires a [Shrine] in all cities",
+			"[+1 Gold, +2 Culture] from each Trade Route",
+			"Cost increases by [15] per owned city",
+			"Can only be built [in holy cities]",
+			"Only available <after adopting [Theocracy]>",
+			"Hidden when religion is disabled",
+			"[Philosopher] units built [in this city] can [Spread Religion] [1] extra times",
+			"[Great Sage] units built [in this city] can [Spread Religion] [1] extra times"
+		]
+	},
+        {
+		"name": "Royal Advisors",
+		"replaces": "Council",
+		"uniqueTo": "The Unified Barbarians",
+		"cost": 50,
+		"requiredTech": "Civil Service",
+		"uniques": [
+		"[+1 Gold] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built [in capital]",
+			"Only available <in cities without a [Congress]>",
+			"Destroyed when the city is captured"
+		]
+	},
+        {
+		"name": "Noble's Gathering",
+		"replaces": "Congress",
+		"uniqueTo": "The Unified Barbarians",
+		"cost": 50,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture] per [4] population [in all cities]",
+			"[+1 Science] per [4] population [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built [in capital]",
+			"Only available <in cities without a [Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
 	]
